@@ -1,0 +1,40 @@
+#   Testes: Exame Doença Viral.
+#   Dados da amostra F13.
+#
+#   Notações:
+#   NR ou vazio  =>  Não houve reação. Valor abaixo de 70.
+#            EL  =>  Mensuração extrapola os limites. Valor acima de 2000.
+#
+#   Mensuração de K, L e M.
+# 
+# K:   L:   M
+345: 340: 600
+234: 549: NR
+425: 446: 347
+ EL:  NR: 565
+405: 464:    
+   : 383: 383
+485: 548: 329
+ NR: 366: 329
+388: 356: 465
+ EL: 367: 500
+486: 483:  EL
+591: 523: 622
+305:    : 340
+280: 628: 549
+ NR: 367: 446
+264:  EL:  NR
+319: 329: 464
+ EL: 483: 383
+376: 600: 548
+330:  NR: 366
+243: 347: 356
+   : 565: 367
+444:    : 483
+441: 383: 523
+ EL: 329:    
+398: 329: 628
+204: 465: 367
+491: 500:  EL
+430:  EL: 329
+382: 622: 483
